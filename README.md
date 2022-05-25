@@ -1,7 +1,4 @@
-<div align="center" style="width: 20%">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
-</div>  
-  
+ 
 
 ### <div align="center">Hola!, soy Jose Angel Colin Najera, ingeniero en informatica, amante de la programacion y pythonista de corazon.
 
